@@ -9,6 +9,7 @@ public class Main {
     public static void square(int x, int y) {
         for (int i = x; i <= y; i++){
             System.out.println("> i- " + i*i); #test one
+                    #another test commmit
 
         }
 
